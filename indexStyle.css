@@ -96,3 +96,10 @@ button:hover {
         font-size: 1rem;
     }
 }
+.parallax {
+    background-image: url('your-image.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+}
+
